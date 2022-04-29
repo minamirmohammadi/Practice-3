@@ -16,6 +16,6 @@ body{
  .fab:hover{
      color: hsl(300, 69%, 71%) !important;
  }
- #br:hover{
-     color: hsl(300, 69%, 71%) !important;
+ .border:hover{
+     border-color: hsl(300, 69%, 71%) !important;
  }
