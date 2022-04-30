@@ -6,8 +6,9 @@ body{
 }
 
  .btn{
-     border-radius: 20px !important;
+     border-radius: 30px !important;
      border: none !important;
+     padding: 10px 55px !important;
  }
  .btn:hover{
      background-color: hsl(300, 69%, 71%) !important;
@@ -19,3 +20,12 @@ body{
  .border:hover{
      border-color: hsl(300, 69%, 71%) !important;
  }
+ 
+.img1{
+    width: 220px !important;
+    height: 48px !important;
+}
+.img2{
+    width: 620px;
+
+}
