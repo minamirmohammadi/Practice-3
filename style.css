@@ -22,10 +22,10 @@ body{
  }
  
 .img1{
-    width: 220px !important;
+    width: 215px !important;
     height: 48px !important;
 }
 .img2{
-    /* width: 620px; */
-    max-width: 97% !important;
+     width: 620px;  
+     /* max-width: 97% !important;  */
 }
