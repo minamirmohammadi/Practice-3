@@ -69,10 +69,10 @@ h1{
     }
     h1{
         /* font-size: 1.9rem !important; */
-        font-size: 5.5vw;
+        font-size: 5.5vw !important;
     }
     p{
-        font-size: 4vw;
+        font-size: 4vw !important;
     }
 
     body{
