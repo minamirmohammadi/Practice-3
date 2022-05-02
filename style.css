@@ -68,12 +68,9 @@ h1{
          margin-bottom: 35px !important;
     }
     h1{
-        /* font-size: 1.9rem !important; */
-        font-size: 5vw !important;
+        font-size: 1.9rem !important;
     }
-    p{
-        font-size: 4vw !important;
-    }
+     
 
     body{
         background-image: url(images/bg-mobile.svg) !important;
