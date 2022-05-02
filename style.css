@@ -36,7 +36,7 @@ body{
     font-family: "my font2"; src: url("font/Poppins-SemiBold.ttf") format("woff");
 }
 h1{
-    font-family: my font2;
+    font-family: my font2 !important;
 }
 
 
