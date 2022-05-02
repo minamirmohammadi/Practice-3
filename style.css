@@ -29,3 +29,20 @@ body{
      width: 620px;  
      /* max-width: 97% !important;  */
 }
+
+@media only screen and (max-width: 576px) {
+.item{
+    display: flex !important;
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+    text-align: center !important;
+    align-items: center;
+    
+    
+    
+    }
+.footer{
+    display: flex;
+    justify-content: center;
+}
+}
