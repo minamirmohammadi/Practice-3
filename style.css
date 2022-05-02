@@ -61,15 +61,8 @@ h1{
     justify-content: center;
 }
      
-.container{
-        width: 375px !important;
-        
-    }  
- .btn{
+    
+    .btn{
          padding: 10px 80px !important;
-    }
-    h1{
-        font-size: 2rem !important;
-        font-family: my font1 !important;
     }
 }  
