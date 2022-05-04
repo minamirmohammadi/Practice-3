@@ -29,6 +29,10 @@ body{
      width: 620px;  
      /* max-width: 97% !important;  */
 }
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&family=Red+Hat+Display:wght@500;700;900&display=swap');
+body{
+    font-family: 'Open Sans',  sans-serif !important;
+} */
 @font-face{
     font-family: "my font1"; src: url("font/Poppins-Regular.ttf") format("woff");
 }
